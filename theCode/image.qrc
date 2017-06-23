@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>my.ico</file>
+        <file>background.jpg</file>
+        <file>volume.png</file>
+        <file>logo.bmi</file>
+        <file>next.png</file>
+        <file>previous.png</file>
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>stop.png</file>
+        <file>folder.bmi</file>
+        <file>backpicture/back1.jpg</file>
+        <file>backpicture/back2.jpg</file>
+        <file>backpicture/back3.jpg</file>
+        <file>backpicture/back4.jpg</file>
+    </qresource>
+</RCC>
